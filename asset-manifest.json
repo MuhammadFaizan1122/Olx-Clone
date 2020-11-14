@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44973a64.chunk.css",
+    "main.js": "/static/js/main.acfb25f1.chunk.js",
+    "main.js.map": "/static/js/main.acfb25f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/css/2.2a86faee.chunk.css": "/static/css/2.2a86faee.chunk.css",
+    "static/js/2.5097428d.chunk.js": "/static/js/2.5097428d.chunk.js",
+    "static/js/2.5097428d.chunk.js.map": "/static/js/2.5097428d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8057c2a891595ece88b312d7349a56d8.js": "/precache-manifest.8057c2a891595ece88b312d7349a56d8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.44973a64.chunk.css.map": "/static/css/main.44973a64.chunk.css.map",
+    "static/js/2.5097428d.chunk.js.LICENSE.txt": "/static/js/2.5097428d.chunk.js.LICENSE.txt",
+    "static/media/Olx-Logo.png": "/static/media/Olx-Logo.f23ad0c1.png",
+    "static/media/car.jpg": "/static/media/car.70670fba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.5097428d.chunk.js",
+    "static/css/main.44973a64.chunk.css",
+    "static/js/main.acfb25f1.chunk.js"
+  ]
+}
